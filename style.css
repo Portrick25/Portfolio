@@ -114,3 +114,13 @@ iframe{
     min-height: 90vh;
     max-height:100vh ;
 }
+.profile-section .row{
+    padding: 1em;
+}
+.profile-section .col-xs-6{
+    padding: 0.2em;
+    margin:1em;
+    margin-top: 1em;
+    border: solid 1px;
+    border-radius: 3px;
+}
