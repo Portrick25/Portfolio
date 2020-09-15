@@ -1,3 +1,13 @@
+h4,h5,b,span, .nav-link,a{
+    font-family:  'Roboto', sans-serif;
+    text-transform: capitalize;
+}
+h1,h2,h3{
+    font-style: bold;
+    text-transform: capitalize;
+    font-family:  'Roboto', sans-serif;
+
+}
 .profile-container{
     padding: 1em;
     max-width: 90vw;
@@ -44,12 +54,13 @@
 
 
 .projects img{ 
-    max-width: 80vw;
+    max-width: 80%;
     margin: auto;
     margin-top: 1em;
     margin-bottom: 1em;
     box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
     padding: 1em;
+    border-radius: 6px;
 }
 
 .contacts{
@@ -119,13 +130,11 @@ iframe{
 }
 .profile-section .col-xs-6{
     padding: 0.2em;
-    margin:1em;
+    margin:0.2em;
     margin-top: 1em;
     border: solid 1px;
     border-radius: 3px;
 }
-
-
 
 .description-section img{
     max-width: 99.5%;
