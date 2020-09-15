@@ -124,3 +124,9 @@ iframe{
     border: solid 1px;
     border-radius: 3px;
 }
+
+
+
+.description-section img{
+    max-width: 99.5%;
+}
